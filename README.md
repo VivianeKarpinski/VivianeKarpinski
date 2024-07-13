@@ -2,4 +2,4 @@
 
 👩🏻‍💻 Data Analytics Student at WGU<br/>
 📚 Follow along as I learn more and more about Python, SQL, R, and visualizations.<br/>
-✍🏻 Currently taking Design Thinking for Business<br/>
+✍🏻 Currently taking Advanced Data Management<br/>
